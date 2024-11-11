@@ -87,7 +87,7 @@ combined_map_with_image <- ggdraw(combined_map) +
 print(combined_map_with_image)
 
 # Save the final map
-ggsave("output/Map-011.png", combined_map_with_image, width = 14, height = 10)
+ggsave("output/Map-011.png", combined_map_with_image, width = 14, height = 10, bg = "white")
 
 
 
