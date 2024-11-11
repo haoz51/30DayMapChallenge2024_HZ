@@ -1,0 +1,833 @@
+<?xml version="1.0"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Durner, George M. (ORCID: 0000-0002-3370-1191)</origin>
+        <pubdate>20190731</pubdate>
+        <title>Polar Bear Distribution and Habitat Resource Selection Data, Beaufort and Chukchi Seas, 1985-2016</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Anchorage, Alaska</pubplace>
+          <publish>U.S. Geological Survey, Alaska Science Center</publish>
+        </pubinfo>
+        <othercit>Suggested Citation: Durner, G.M., 2019, Polar bear distribution and habitat resource selection data, Beaufort and Chukchi Seas, 1985-2016: U.S. Geological Survey data release, https://doi.org/10.5066/P9ZRJ3XU</othercit>
+        <onlink>https://doi.org/10.5066/P9ZRJ3XU</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>U.S. Geological Survey, Alaska Science Center</origin>
+            <pubdate>1984</pubdate>
+            <title>Response of Polar Bear Populations to a Rapidly Diminishing Sea Ice Environment</title>
+            <geoform>website</geoform>
+            <serinfo>
+              <sername>Alaska Science Portal</sername>
+              <issue>16</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Anchorage, Alaska</pubplace>
+              <publish>U.S. Geological Survey, Alaska Science Center</publish>
+            </pubinfo>
+            <othercit>This is a link to the broader USGS Alaska Science Center research project supported by these data. Users will find a description of the research project and links to associated reports, publications, and data products.</othercit>
+            <onlink>https://alaska.usgs.gov/portal/project.php?project_id=16</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>These data from satellite radio-collared adult female polar bears captured in the southern Beaufort Sea, 1985-2016 were used for testing the regional, seasonal and decadal efficacy of retrospective polar bear resource selection functions (RSF) developed for the Arctic basin and its peripheral seas (see Durner et al. 2009). The data includes the following: 1) a csv file of locations used to build a 99% minimum convex polygon study area; 2) a csv file of locations, that occurred within the study area, and were used to test RSFs; 3) a csv file of locations used to build seasonal kernel utilization distributions (95% and 50% contours) for periods 1985-1995, 1996-2006, and 2007-2016.</abstract>
+      <purpose>These data were gathered as part of on-going long-term research by the U.S. Geological Survey in the Beaufort Sea to understand the ecology and behavior of southern Beaufort Sea polar bears and their use of sea ice habitat in the Beaufort and Chukchi seas.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19850506</begdate>
+          <enddate>20160620</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Beaufort and Chukchi Seas</descgeog>
+      <bounding>
+        <westbc>163.3192</westbc>
+        <eastbc>-110.966</eastbc>
+        <northbc>83.677</northbc>
+        <southbc>61.700</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:ASC218</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>Biota</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>NASA GCMD Earth Science Keyword Thesaurus</themekt>
+        <themekey>Animals/Vertebrates</themekey>
+        <themekey>Mammals</themekey>
+        <themekey>Carnivores</themekey>
+        <themekey>Bears</themekey>
+        <themekey>Species Life History</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS CSA Biocomplexity Thesaurus</themekt>
+        <themekey>Wildlife</themekey>
+        <themekey>Mammals</themekey>
+        <themekey>Marine mammals</themekey>
+        <themekey>Threatened species</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>Wildlife</themekey>
+        <themekey>Mammals</themekey>
+        <themekey>Science programs</themekey>
+        <themekey>Animal behavior</themekey>
+        <themekey>Bears</themekey>
+        <themekey>Biogeography</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Satellite Transmitter</themekey>
+        <themekey>Argos</themekey>
+        <themekey>Polar bears</themekey>
+        <themekey>Ursus maritimus</themekey>
+      </theme>
+      <place>
+        <placekt>USGS Geographic Names Information System (GNIS)</placekt>
+        <placekey>Alaska</placekey>
+        <placekey>Chukchi Sea</placekey>
+        <placekey>Beaufort Sea</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Animals</taxonkey>
+        <taxonkey>Mammals</taxonkey>
+        <taxonkey>Vertebrates</taxonkey>
+        <taxonkey>Bears</taxonkey>
+        <taxonkey>Polar bears</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>ITIS Integrated Taxonomic Information System</origin>
+              <pubdate>Unknown</pubdate>
+              <title>ITIS Integrated Taxonomic Information System</title>
+              <geoform>online database</geoform>
+              <pubinfo>
+                <pubplace>online</pubplace>
+                <publish>ITIS-North America</publish>
+              </pubinfo>
+              <othercit>Taxonomic details retrieved January 2, 2023 from the Integrated Taxonomic Information System online database https://www.itis.gov</othercit>
+              <onlink>https://doi.org/10.5066/F7KH0KBK</onlink>
+            </citeinfo>
+          </classcit>
+        </classsys>
+        <taxonpro>Species identification was made by skilled observers in the field based on general appearance. Polar bears are not easily confused with other species.</taxonpro>
+        <taxoncom>Taxonomy is complete for all samples. No voucher specimens were collected.</taxoncom>
+      </taxonsys>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Mammalia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Subclass</taxonrn>
+                        <taxonrv>Theria</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Infraclass</taxonrn>
+                          <taxonrv>Eutheria</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Carnivora</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Suborder</taxonrn>
+                              <taxonrv>Caniformia</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Ursidae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Ursus</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Ursus maritimus</taxonrv>
+                                    <common>Polar Bear</common>
+                                    <common>TSN: 180542</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None</accconst>
+    <useconst>It is requested that the authors and the USGS Alaska Science Center be cited for any subsequent publications that reference this dataset.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <crossref>
+      <citeinfo>
+        <origin>Durner, G.M.</origin>
+        <origin>Douglas, D.C.</origin>
+        <origin>Atwood, T.C.</origin>
+        <pubdate>2019</pubdate>
+        <title>Are polar bear habitat resource selection functions developed from 1985–1995 data still useful?</title>
+        <geoform>journal article</geoform>
+        <serinfo>
+          <sername>Ecology and Evolution</sername>
+          <issue>9(15):8625-8638</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>online</pubplace>
+          <publish>Wiley</publish>
+        </pubinfo>
+        <othercit>Durner, G.M., Douglas, D.C., Atwood, T.C. 2019. Are polar bear habitat resource selection functions developed from 1985–1995 data still useful? Ecology and Evolution 9(15):8625-8638  doi:10.1002/ece3.5401</othercit>
+        <onlink>https://doi.org/10.1002/ece3.5401</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Kellner, A.</origin>
+        <origin>Atwood, T.C.</origin>
+        <origin>Douglas, D.C.</origin>
+        <origin>Breck, S.W.</origin>
+        <origin>Wittemyer, G.</origin>
+        <pubdate>2019</pubdate>
+        <title>High Winds and Melting Sea Ice Trigger Landward Movement in a Polar Bear Population of Concern</title>
+        <geoform>journal article</geoform>
+        <serinfo>
+          <sername>Ecosphere</sername>
+          <issue>14(2):e4420</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>online</pubplace>
+          <publish>Wiley</publish>
+        </pubinfo>
+        <othercit>Kellner, A., Atwood, T.C., Douglas, D.C., Breck, S.W., Wittemyer, G. 2023. High winds and melting sea ice trigger landward movement in a polar bear population of concern. Ecosphere 14(2):e4420  doi:10.1002/ecs2.4420</othercit>
+        <onlink>https://doi.org/10.1002/ecs2.4420</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>All polar bear satellite locations collected between 1985-2003 were Doppler-shift derived and estimated by the Argos system (CLS; http://www.argos-system.org/manual/ ). The horizontal accuracy of those data was filtered by the Douglas Argos-filter (DAF) algorithm (Douglas et al 2012) Hybrid algorithm (MAXREDUN = 10 km). Douglas et al 2012 estimated the 68th percentile for the horizontal error of Argos location classes 3, 2, 1, 0, A, B and Z as, respectively, 0.4, 1.0, 2.5, 6.8, 4.1, 7.6, and 4.7 km. Most polar bear locations collected after 2003 were derived by on-board geographic positioning system (GPS) receivers whose horizontal accuracy has been estimated as 30 m (Adams et al 2013).
+
+      Latitude and longitude estimated by Argos are reported to 3 decimal places.  Latitude and longitude estimated by GPS and reported by Argos or the Iridium satellite system are reported to 5 decimal places.</attraccr>
+    </attracc>
+    <logic>We performed an initial filter to remove implausible Doppler locations using the Douglas Argos-filter (DAF) algorithm (Douglas et al 2012). DAF retained all standard-quality locations (Argos location classes 3, 2, and 1), and auxiliary location classes (0, A, B and Z) when corroborated by a consecutive location within a 10 km radius, or when movement rates were &lt;10 km hr-1 and the internal angles (α, in degrees) formed by preceding and subsequent vectors (of lengths d1 and d2 km) were not suspiciously acute (α &gt; -25 + β × ln[minimum (d1,d2)], where β = 15). We assigned β = 15 because it performed well for our specific tracking data across seasons and regions.</logic>
+    <complete>We restricted our analysis to data from adult female polar bears because adult male and sub-adult polar bears cannot wear radio collars, and the vast majority of tracking data has been of adult females. We retained data from a PTT if it was deployed on a bear captured between 123º and 157º west longitude. We excluded locations of bears that were on land or in maternal dens, and from PTTs that had become detached as evidenced by invariant activity sensor data, temperature sensor data emulating ambient conditions, or location data either persistently stationary or persistently following the prevailing ice drift.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>All polar bear satellite locations collected between 1985-2003 were Doppler-shift derived and estimated by the Argos system (CLS; http://www.argos-system.org/manual/ ). The horizontal accuracy of those data was filtered by the Douglas Argos-filter (DAF) algorithm (Douglas et al 2012) Hybrid algorithm (MAXREDUN = 10 km). Douglas et al 2012 estimated the 68th percentile for the horizontal error of Argos location classes 3, 2, 1, 0, A, B and Z as, respectively, 0.4, 1.0, 2.5, 6.8, 4.1, 7.6, and 4.7 km. Most polar bear locations collected after 2003 were derived by on-board geographic positioning system (GPS) receivers whose horizontal accuracy has been estimated as 30 m (Adams et al 2013).</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <method>
+        <methtype>Field</methtype>
+        <methdesc>From 1985 to 2016, we captured adult female polar bears in the southern Beaufort Sea and equipped them with either collar, ear tag, or glue-on platform transmitter terminals (PTT) that provided Doppler-derived or GPS locations. We restricted our analysis to data from adult female polar bears because adult male and sub-adult polar bears cannot wear radio collars, and the vast majority of tracking data has been of adult females (Durner et al 2009). We retained data from a PTT if it was deployed on a bear captured between 123º and 157º west longitude.</methdesc>
+      </method>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Adams, A.L.</origin>
+            <origin>Dickinson, K.J.M.</origin>
+            <origin>Robertson, B.C.</origin>
+            <origin>van Heezik, Y.</origin>
+            <pubdate>2013</pubdate>
+            <title>An evaluation of the accuracy and performance of lightweight GPS collars in a suburban environment</title>
+            <geoform>journal article</geoform>
+            <serinfo>
+              <sername>PLoS One</sername>
+              <issue> 8(7):e68496</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>PLoS One</publish>
+            </pubinfo>
+            <othercit>Adams, A.L., Dickinson, K.J.M., Robertson, B.C., van Heezik, Y. 2013. An evaluation of the accuracy and performance of lightweight GPS collars in a suburban environment. PLoS ONE 8(7):e68496  doi:10.1371/journal.pone.0068496</othercit>
+            <onlink>https://doi.org/10.1371/journal.pone.0068496</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>journal article</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2013</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Adams et al 2013</srccitea>
+        <srccontr>Describes the use of the horizontal accuracy of on-board geographic positioning system (GPS) receivers.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Douglas, D.C.</origin>
+            <origin>Weinzierl, R.</origin>
+            <origin>Davidson, S.C.</origin>
+            <origin>Kays, R.</origin>
+            <origin>Wikelski, M.</origin>
+            <origin>Bohrer, G.</origin>
+            <pubdate>2012</pubdate>
+            <title>Moderating Argos location errors in animal tracking data</title>
+            <geoform>journal article</geoform>
+            <serinfo>
+              <sername>Methods in Ecology and Evolution</sername>
+              <issue>3:999-1007</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Online</pubplace>
+              <publish>Wiley</publish>
+            </pubinfo>
+            <othercit>Douglas, D.C., Weinzierl, R., Davidson, S.C., Kays, R., Wikelski, M., Bohrer, G. 2012. Moderating Argos location errors in animal tracking data. Methods in Ecology and Evolution 3:999-1007  doi:10.1111/j.2041-210X.2012.00245.x</othercit>
+            <onlink>https://doi.org/10.1111/j.2041-210X.2012.00245.x</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>journal article</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2012</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Douglas et al 2012</srccitea>
+        <srccontr>Describes the use of the "Douglas Argos Filter" (DAF) for flagging implausible locations.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Durner, G.M.</origin>
+            <origin>Douglas, D.C.</origin>
+            <origin>Nielson, R.M.</origin>
+            <origin>Amstrup, S.C.</origin>
+            <origin>McDonald, T.L.</origin>
+            <origin>Stirling, I.</origin>
+            <origin>Mauritzen, M.</origin>
+            <origin>Born, E.W.</origin>
+            <origin>Wiig, Ø.</origin>
+            <origin>DeWeaver, E.</origin>
+            <origin>Serreze, M.C.</origin>
+            <origin>Belikov, S.E.</origin>
+            <origin>Holland, M.M.</origin>
+            <origin>Maslanik, J.</origin>
+            <origin>Aars, J.</origin>
+            <origin>Bailey, D.A.</origin>
+            <origin>Derocher, A.E.</origin>
+            <pubdate>2009</pubdate>
+            <title>Predicting 21st-century polar bear habitat distribution from global climate models</title>
+            <geoform>journal article</geoform>
+            <serinfo>
+              <sername>Ecological Monographs</sername>
+              <issue>79(1):25-58</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>Ecological Society of America</publish>
+            </pubinfo>
+            <othercit>Durner, G.M., Douglas, D.C., Nielson, R.M., Amstrup, S.C., McDonald, T.L., Stirling, I., Mauritzen, M., Born, E.W., Wiig, Ø., DeWeaver, E., Serreze, M.C., Belikov, S.E., Holland, M.M., Maslanik, J., Aars, J., Bailey, D.A., Derocher, A.E. 2009. Predicting 21st-century polar bear habitat distribution from global climate models. Ecological Monographs 79(1):25-58.  doi:10.1890/07-2089.1</othercit>
+            <onlink>https://doi.org/10.1890/07-2089.1</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>journal article</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2009</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Durner et al 2009</srccitea>
+        <srccontr>Describes the use of the deployment and tracking data from satellite radio-collared polar bears.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Data were downloaded through the Argos System (www.argos-system.org) or the Iridium satellite system (Iridium Satellite Communications, McLean, VA, USA).</procdesc>
+        <procdate>2018</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>For calculating a 99% minimum convex polygon study area we used all polar bear locations, 1985-2016. One location per day per bear was selected for the MCP analysis based on the best location quality (GPS, then Argos quality classes 3, 2, 1, 0, A, and B); ties were decided randomly.</procdesc>
+        <procdate>2018</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>For calculating 50% and 95% kernel utilization distributions, we used higher-accuracy polar bear locations (GPS and Argos classes 3, 2, and 1) that were no less than 72 hours apart (to reduce autocorrelation and standardize interannual sampling intensity).</procdesc>
+        <procdate>2018</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>For assessing the distribution of polar bear locations with resource selection function (RSF) valued habitat we used higher-accuracy polar bear locations (GPS and Argos classes 3, 2, and 1) that were no less than 72 hours apart (to reduce autocorrelation and standardize interannual sampling intensity). Locations that occurred outside of RSF zones were excluded.</procdesc>
+        <procdate>2018</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>General capture location was the Beaufort Sea.</indspref>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.00001</latres>
+        <longres>0.00001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>World Geodetic System of 1984 (WGS84)</horizdn>
+        <ellips>World Geodetic System of 1984 (WGS84)</ellips>
+        <semiaxis>6378137</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>polarBear_satelliteTelemetry_99PercentMCP_beaufortChukchi_Durner_1985_2016.csv</enttypl>
+        <enttypd>Table containing satellite location data from adult female polar bears captured in the Beaufort Sea, 1985-2016, and used to create a 99% minimum convex polygon study area. Presented in a Comma Separated Value (CSV) formatted table.</enttypd>
+        <enttypds>Author defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>BearID_mcp</attrlabl>
+        <attrdef>A unique identifier assigned to each bear in the dataset used in defining the 99% minimum convex polygon.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>308</rdommax>
+            <attrunit>none</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DateTimeUTC_mcp</attrlabl>
+        <attrdef>The date and time of the satellite radio telemetry observation used in defining the 99% minimum convex polygon.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5/6/1985 23:29</rdommin>
+            <rdommax>6/20/2016 04:00</rdommax>
+            <attrunit>MM/DD/YYYY HH:mm (UTC)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>latitude_mcp</attrlabl>
+        <attrdef>The latitude of the satellite radio telemetry observation used in defining the 99% minimum convex polygon.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>61.70000</rdommin>
+            <rdommax>83.67700</rdommax>
+            <attrunit>Decimal degrees (WGS 84)</attrunit>
+            <attrmres>0.00001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>longitude_mcp</attrlabl>
+        <attrdef>The longitude of the satellite radio telemetry observation used in defining the 99% minimum convex polygon.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-110.96600</rdommin>
+            <rdommax>163.31920</rdommax>
+            <attrunit>Decimal degrees (WGS 84)</attrunit>
+            <attrmres>0.00001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>polarBear_satelliteTelemetry_RSFequalAreaZones_beaufortChukchi_Durner_1985_2016.csv</enttypl>
+        <enttypd>Table containing satellite location data from adult female polar bears captured in the Beaufort Sea, 1985-2016, and used to test the fit of resource selection function equal area zones with polar bear distribution. Presented in a Comma Separated Value (CSV) formatted table.</enttypd>
+        <enttypds>Author defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>BearID_rsf</attrlabl>
+        <attrdef>A unique identifier assigned to each bear in the dataset used to test the fit of resource selection function equal area zones.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>301</rdommax>
+            <attrunit>none</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DateTimeUTC_rsf</attrlabl>
+        <attrdef>The date and time of the satellite radio telemetry observation used to test the fit of resource selection function equal area zones.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5/6/1985 23:29</rdommin>
+            <rdommax>6/20/2016 05:00</rdommax>
+            <attrunit>MM/DD/YYYY HH:mm (UTC)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>latitude_rsf</attrlabl>
+        <attrdef>The latitude of the satellite radio telemetry observation used to test the fit of resource selection function equal area zones.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>63.89100</rdommin>
+            <rdommax>82.40900</rdommax>
+            <attrunit>Decimal degrees (WGS 84)</attrunit>
+            <attrmres>0.00001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>longitude_rsf</attrlabl>
+        <attrdef>The longitude of the satellite radio telemetry observation used to test the fit of resource selection function equal area zones.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-115.06000</rdommin>
+            <rdommax>174.14200</rdommax>
+            <attrunit>Decimal degrees (WGS 84)</attrunit>
+            <attrmres>0.00001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>season</attrlabl>
+        <attrdef>Season of year in which the record occurs.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>max</edomv>
+            <edomvd>Season of maximum sea ice extent (winter).</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>mlt</edomv>
+            <edomvd>Season of sea ice melt (spring, or breakup).</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>min</edomv>
+            <edomvd>Season of minimum sea ice (summer)</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>gth</edomv>
+            <edomvd>season of sea ice growth (autumn, or freeze-up).</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>period</attrlabl>
+        <attrdef>Decadal period in which the record occurs.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>8595</edomv>
+            <edomvd>Years inclusive of 1985-1995</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>9606</edomv>
+            <edomvd>Years inclusive of 1996-2006</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>0716</edomv>
+            <edomvd>Years inclusive of 2007-2016</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>lc94_rsf</attrlabl>
+        <attrdef>Estimated horizontal error (meters) of location records.</attrdef>
+        <attrdefs>Argos: Douglas et al 2012
+
+        GPS: Adams et al 2013</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>L1</edomv>
+            <edomvd>Coordinate is within &lt; 2500 meters of its true location on the earth.</edomvd>
+            <edomvds>Douglas et al 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>L2</edomv>
+            <edomvd>Coordinate is within &lt; 1000 meters of its true location on the earth.</edomvd>
+            <edomvds>Douglas et al 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>L3</edomv>
+            <edomvd>Coordinate is within &lt; 400 meters of its true location on the earth.</edomvd>
+            <edomvds>Douglas et al 2012</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>L4</edomv>
+            <edomvd>Coordinate is within &lt; 30 meters of its true location on the earth.</edomvd>
+            <edomvds>Adams et al 2013</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>eaInterval_rsf</attrlabl>
+        <attrdef>A unique identifier assigned to each resource selection function (RSF) equal area zone in which the polar bear location occurs, where 1 = lowest RSF-valued habitat and 20 = highest RSF-valued habitat, of records used to test the fit of resource selection function equal area zones.</attrdef>
+        <attrdefs>Durner et al 2009</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>20</rdommax>
+            <attrunit>none</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>polarBear_satelliteTelemetry_kernelUD_beaufortChukchi_Durner_1985_2016.csv</enttypl>
+        <enttypd>Table containing satellite location data from adult female polar bears captured in the Beaufort Sea, 1985-2016, and used to create 50% and 95% kernel utilization distributions. Presented in a Comma Separated Value (CSV) formatted table.</enttypd>
+        <enttypds>Author defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>BearID_ud</attrlabl>
+        <attrdef>A unique identifier assigned to each bear in the dataset used in defining the 50% and 95% kernel utilization distributions.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>288</rdommax>
+            <attrunit>none</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DateTimeUTC_ud</attrlabl>
+        <attrdef>The date and time of the satellite radio telemetry observation used in defining the 50% and 95% kernel utilization distributions.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5/6/1985 23:29</rdommin>
+            <rdommax>6/16/2016 22:00</rdommax>
+            <attrunit>MM/DD/YYYY HH:mm (UTC)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>latitude_ud</attrlabl>
+        <attrdef>The latitude of the satellite radio telemetry observation used in defining the 50% and 95% kernel utilization distributions.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>63.891</rdommin>
+            <rdommax>82.226</rdommax>
+            <attrunit>Decimal degrees (WGS 84)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>longitude_ud</attrlabl>
+        <attrdef>The longitude of the satellite radio telemetry observation used in defining the 50% and 95% kernel utilization distributions.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-110.966</rdommin>
+            <rdommax>163.319</rdommax>
+            <attrunit>Decimal degrees (WGS 84)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>season</attrlabl>
+        <attrdef>Season of year in which the record occurs.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>max</edomv>
+            <edomvd>Season of maximum sea ice extent (winter).</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>mlt</edomv>
+            <edomvd>Season of sea ice melt (spring, or breakup).</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>min</edomv>
+            <edomvd>Season of minimum sea ice (summer).</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>gth</edomv>
+            <edomvd>Season of sea ice growth (autumn, or freeze-up).</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>period</attrlabl>
+        <attrdef>Decadal period in which the record occurs.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>8595</edomv>
+            <edomvd>Years inclusive of 1985-1995</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>9606</edomv>
+            <edomvd>Years inclusive of 1996-2006</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>0716</edomv>
+            <edomvd>Years inclusive of 2007-2016</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>The U.S. Geological Survey, Alaska Science Center is the authoritative source and distributor of these data.</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data for other purposes or on all computer systems, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formcont>Data are distributed in a Zip package containing data in CSV format and FGDC metadata in XML and HTML formats.</formcont>
+          <filedec>Compression applied by the 7-Zip utility using the default compression level [5]. The Zip package can be decompressed and unpacked by open source or commercially available unzip tools.</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9ZRJ3XU</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20230215</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata (CSDGM)</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

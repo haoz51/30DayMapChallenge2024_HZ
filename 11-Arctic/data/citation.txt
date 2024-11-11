@@ -1,0 +1,3 @@
+https://alaska.usgs.gov/products/data.php?dataid=246
+
+Durner, G. M., 2019, Polar bear distribution and habitat resource selection data, Beaufort and Chukchi Seas, 1985-2016: U.S. Geological Survey data release, https://doi.org/10.5066/P9ZRJ3XU.
