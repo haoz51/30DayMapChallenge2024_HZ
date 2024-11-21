@@ -1,0 +1,41 @@
+{
+  "chart": {
+    "title": "Share of the population using the Internet",
+    "subtitle": "Share of the population who [used the Internet](#dod:internetuser) in the last three months.",
+    "citation": "International Telecommunication Union (via World Bank)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?tab=map&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "South Asia (WB)",
+      "North America (WB)",
+      "Sub-Saharan Africa (WB)",
+      "East Asia and Pacific (WB)",
+      "Middle East and North Africa (WB)",
+      "Europe and Central Asia (WB)",
+      "Latin America and Caribbean (WB)",
+      "World"
+    ]
+  },
+  "columns": {
+    "Individuals using the Internet (% of population)": {
+      "titleShort": "Share of the population using the Internet",
+      "titleLong": "Share of the population using the Internet - International Telecommunication Union",
+      "descriptionShort": "Share of the population who used the Internet in the last three months.",
+      "descriptionKey": [
+        "An Internet user is defined by the International Telecommunication Union as anyone who has accessed the Internet from any location in the last three months.",
+        "This can be from any type of device, including a computer, mobile phone, personal digital assistant, games machine, digital TV, and other technological devices."
+      ],
+      "shortUnit": "%",
+      "unit": "% of population",
+      "timespan": "1960-2022",
+      "type": "Numeric",
+      "owidVariableId": 905316,
+      "shortName": "it_net_user_zs",
+      "lastUpdated": "2024-05-20",
+      "nextUpdate": "2025-05-20",
+      "citationShort": "World Bank (2023) – with minor processing by Our World in Data",
+      "citationLong": "World Bank (2023) – with minor processing by Our World in Data. “Share of the population using the Internet – International Telecommunication Union” [dataset]. World Bank, “World Bank World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/905316.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-19"
+}
